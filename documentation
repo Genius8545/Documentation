@@ -27,6 +27,9 @@ https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/updateMe
 to get all Equipments (METHOD GET)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments
 to create new Equipment (METHOD POST)[title,description,photo,price,category,type,userId]
+======> type could be ["rent","buy"]
+======> category could be ["Aerial Lifts", "Air Compressors","Cabin","Cranes","Dump truck","Earth Moving","Material Handling","Motors"]
+to get all Equipments (METHOD GET)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments
 to get one Equipment (METHOD GET)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments/{EquipmentId}
