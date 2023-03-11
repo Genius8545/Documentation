@@ -1,1 +1,36 @@
+ROOT API
+https://cute-cyan-coyote-fez.cyclic.app/
 
+Customer 
+to get all customers (METHOD GET)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/users 
+to create new customer (METHOD POST)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/users 
+to get one customer (METHOD GET)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/user/{customerId}
+
+
+API FOR SIGNUP (METHOD POST)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/signup
+API FOR login (METHOD POST)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/login
+API FOR forgotPassword (METHOD POST)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/forgotPassword
+API FOR resetPassword (METHOD PATCH)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/resetPassword
+API FOR updatePassword (METHOD PATCH)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/updatePassword
+API FOR updateCustomer (METHOD PATCH)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/updateMe
+
+
+to get all Equipments (METHOD GET)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments
+to create new Equipment (METHOD POST)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments
+to get one Equipment (METHOD GET)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments/{EquipmentId}
+to UPDATE one Equipment (METHOD PATCH)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments/{EquipmentId}
+to DELETE one Equipment (METHOD DELETE)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments/{EquipmentId}
