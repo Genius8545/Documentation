@@ -10,11 +10,11 @@ to get one customer (METHOD GET)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/user/{customerId}
 
 
-API FOR SIGNUP (METHOD POST)
+API FOR SIGNUP (METHOD POST)  [name,email,password,passwordConfirm ,phone]
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/signup
-API FOR login (METHOD POST)
+API FOR login (METHOD POST) [email,password]
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/login
-API FOR forgotPassword (METHOD POST)
+API FOR forgotPassword (METHOD POST) [email]
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/forgotPassword
 API FOR resetPassword (METHOD PATCH)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/resetPassword
@@ -26,7 +26,7 @@ https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/updateMe
 
 to get all Equipments (METHOD GET)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments
-to create new Equipment (METHOD POST)
+to create new Equipment (METHOD POST)[title,description,photo,price,category,type,userId]
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments
 to get one Equipment (METHOD GET)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments/{EquipmentId}
