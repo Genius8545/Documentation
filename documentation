@@ -20,8 +20,7 @@ API FOR resetPassword (METHOD PATCH)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/resetPassword
 API FOR updatePassword (METHOD PATCH)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/updatePassword
-API FOR updateCustomer (METHOD PATCH)
-https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/updateMe
+
 
 
 to get all Equipments (METHOD GET)
