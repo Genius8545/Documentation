@@ -20,8 +20,12 @@ API FOR resetPassword (METHOD PATCH)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/resetPassword
 API FOR updatePassword (METHOD PATCH)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/updatePassword
-
-
+API FOR update (METHOD PATCH)  [name,email,phone,avatar]
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/updateMe
+API FOR delete (METHOD DELETE)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/users//deleteMe
+API FOR verfiy (METHOD POST)
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/users//verfiy
 
 to get all Equipments (METHOD GET)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments
