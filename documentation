@@ -22,7 +22,7 @@ API FOR updatePassword (METHOD PATCH)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/updatePassword
 API FOR update (METHOD PATCH)  [name,email,phone,avatar]
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/updateMe
-API FOR delete (METHOD DELETE)
+API FOR delete (METHOD DELETE) (Done)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users//deleteMe
 API FOR verfiy (METHOD POST)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users//verfiy
