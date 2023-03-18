@@ -20,7 +20,7 @@ API FOR resetPassword (METHOD PATCH)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/resetPassword
 API FOR updatePassword (METHOD PATCH)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/updatePassword
-API FOR update (METHOD PATCH)  [name,email,phone,avatar]
+API FOR update (METHOD PATCH)  [name,email,phone,avatar,active]
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/updateMe
 API FOR delete (METHOD DELETE)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users//deleteMe
