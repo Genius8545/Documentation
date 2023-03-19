@@ -2,17 +2,17 @@ ROOT API
 https://cute-cyan-coyote-fez.cyclic.app/
 
 Customer 
-to get all customers (METHOD GET)
+to get all customers (METHOD GET) (Done)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users 
 to create new customer (METHOD POST)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users 
-to get one customer (METHOD GET)
+to get one customer (METHOD GET) (Done)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/user/{customerId}
 
 
-API FOR SIGNUP (METHOD POST)  [name,email,password,passwordConfirm ,phone]
+API FOR SIGNUP (METHOD POST)  [name,email,password,passwordConfirm ,phone] (Done)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/signup
-API FOR login (METHOD POST) [email,password]
+API FOR login (METHOD POST) [email,password] (Done)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/login
 API FOR forgotPassword (METHOD POST) [email]
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/forgotPassword
@@ -22,12 +22,12 @@ API FOR updatePassword (METHOD PATCH)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/updatePassword
 API FOR update (METHOD PATCH)  [name,email,phone,avatar,active]
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users/updateMe
-API FOR delete (METHOD DELETE)
+API FOR delete (METHOD DELETE) (Done)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users//deleteMe
 API FOR verfiy (METHOD POST)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users//verfiy
 
-to get all Equipments (METHOD GET)
+to get all Equipments (METHOD GET) (Done)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments
 to create new Equipment (METHOD POST)[title,description,photo,price,category,government,userId]
 ======> type could be ["rent","buy"]
