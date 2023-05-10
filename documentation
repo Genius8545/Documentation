@@ -28,7 +28,7 @@ API FOR verfiy (METHOD POST)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/users//verfiy
 
 to get all Equipments (METHOD GET)
-https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/truck
 to create new Equipment (METHOD POST)[title,description,photo,price,category,government,userId]
 ======> type could be ["rent","buy"]
 ======> category could be ["Aerial Lifts", "Air Compressors","Cabin","Cranes","Dump truck","Earth Moving","Material Handling","Motors"]
@@ -40,3 +40,16 @@ to UPDATE one Equipment (METHOD PATCH)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments/{EquipmentId}
 to DELETE one Equipment (METHOD DELETE)
 https://cute-cyan-coyote-fez.cyclic.app/api/v1/Equipments/{EquipmentId}
+
+
+
+
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/truck
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/brand
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/category
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/coupon
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/review
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/subcategory
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/subcategory
+https://cute-cyan-coyote-fez.cyclic.app/api/v1/favoriteList
+
